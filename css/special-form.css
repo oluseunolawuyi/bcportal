@@ -1,0 +1,36 @@
+.content-vission{
+margin-top:20px;
+}
+.special-title{
+padding:20px;
+font-size:25px;
+background:#060;
+margin-bottom:10px;
+margin-top:10px;
+}
+.form-group i{
+color:#333;
+}
+.special{
+background:#e8ba4b;
+color:#fff;
+font-size:#18px;
+margin-bottom:10px;
+text-align:center;
+}
+.special:hover{
+color:#fff;
+background:#b58718;
+}
+.content-vission input[type="text"], .content-vission input[type="email"], .content-vission input[type="password"], .content-vission textarea{
+color:#000 !important;
+}
+.form-link{
+color:#060 !important;
+}
+.toggle-forms{
+color:#f11 !important;
+}
+.toggle-forms:hover, .form-link:hover{
+text-decoration:underline !important;
+}
